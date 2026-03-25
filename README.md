@@ -14,18 +14,18 @@ Introduction to Booleans
 Data input and output
 “if” statements and loops
 Using lists - operations and methods
- Debugging and syntax errors
+Debugging and syntax errors
 What will I achieve?
 By the end of this course you should be able to...
 • Write Python scripts
 
 • Write “if” statements and loops
 
-• Using Python for data structures and parsing input and output
+• Use Python for data structures and parsing input and output
 
-• Know how to debug and fix errors
+• Debug and fix errors
 
 • Work with the Python code libraries.
 
 What level is the course and do I need any particular skills?
-No prior knowledge of Python or programming is required, but you should have good general computing skills. You should be able to follow spoken instructions, read written instructions and information, and discuss work with your tutor in English. If you are new to programming and would like to do some preparation for this course you may wish to try the following : Using the scratch tool use the graphical editor to draw a square http://scratch.mit.edu/projects/editor/.
+No prior knowledge of Python or programming is required, but you should have good general computing skills. You should be able to follow spoken instructions, read written instructions and information, and discuss work with your tutor in English. If you are new to programming and would like to do some preparation for this course you may wish to try writing a very simple Python program (e.g. printing text or doing a basic calculation) to get familiar with how code works.
